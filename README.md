@@ -295,9 +295,9 @@ churn_project/
 
 ---
 
-**Resume line:** *Built an end-to-end ML system to predict customer churn, incorporating
-feature engineering, model comparison (Logistic Regression / Random Forest / XGBoost),
-cross-validation and hyperparameter tuning, SHAP explainability, K-Means customer
-segmentation, a rule-based retention recommendation engine, and an interactive what-if
+⭐ If you found this project useful, please consider giving it a star. Your support is greatly appreciated! 🚀
+
+Thanks for visiting! 🙌
+
 risk simulator — deployed via a Streamlit dashboard and a FastAPI REST service with basic
-drift monitoring.*
+drift monitoring.
