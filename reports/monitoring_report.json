@@ -1,0 +1,39 @@
+{
+  "data_drift": {
+    "Tenure_in_Months": {
+      "psi": 0.0025,
+      "ks_p_value": 0.8862,
+      "status": "STABLE"
+    },
+    "Monthly_Charge": {
+      "psi": 0.003,
+      "ks_p_value": 0.9927,
+      "status": "STABLE"
+    },
+    "Total_Revenue": {
+      "psi": 0.0084,
+      "ks_p_value": 0.433,
+      "status": "STABLE"
+    },
+    "avg_monthly_revenue": {
+      "psi": 0.005,
+      "ks_p_value": 0.3433,
+      "status": "STABLE"
+    },
+    "services_subscribed": {
+      "psi": 0.002,
+      "ks_p_value": 0.9991,
+      "status": "STABLE"
+    }
+  },
+  "missing_value_spikes": {
+    "Churn_Category": 0.7026,
+    "Churn_Reason": 0.7026
+  },
+  "prediction_drift": {
+    "reference_mean_churn_proba": 0.3733,
+    "current_mean_churn_proba": 0.3893,
+    "psi": 0.0076,
+    "status": "STABLE"
+  }
+}
