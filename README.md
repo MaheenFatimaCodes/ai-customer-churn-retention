@@ -298,6 +298,3 @@ churn_project/
 ⭐ If you found this project useful, please consider giving it a star. Your support is greatly appreciated! 🚀
 
 Thanks for visiting! 🙌
-
-risk simulator — deployed via a Streamlit dashboard and a FastAPI REST service with basic
-drift monitoring.
